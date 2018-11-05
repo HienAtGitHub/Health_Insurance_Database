@@ -6,3 +6,5 @@ The order of the files is as follow:
 3. Health Insurance Relational Database
 4. DatabaseCreation.sql
 5. Triggers.sql
+6. TableCreation_Screenshots.pdf (create table and execute queries)
+7. Triggers_Screenshots.pdf (execute and test triggers)
